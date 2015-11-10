@@ -1,0 +1,9 @@
+{
+  "AppSettings": {
+    "SiteEmailAddress": "pawelby@gmail.com",
+    "BingKey":  ""
+  },	
+  "Data": {
+    "PawelByContextConnection": "Server=(localdb)\\ProjectsV12;Database=PawelbyDb;Trusted_Connection=true;MultipleActiveResultSets=true"
+  }
+}
